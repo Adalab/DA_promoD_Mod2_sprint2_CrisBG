@@ -1,0 +1,51 @@
+,state_province,name,country,web_pages,alpha_two_code
+0,Quebec,Cégep de Saint-Jérôme,Canada,https://www.cstj.qc.ca,CA
+3,Ontario,Lambton College,Canada,https://www.lambtoncollege.ca,CA
+4,Nova Scotia,Acadia University,Canada,http://www.acadiau.ca/,CA
+6,British Columbia,Ashton College,Canada,http://www.ashtoncollege.com/,CA
+8,Alberta,Athabasca University,Canada,http://www.athabascau.ca/,CA
+12,Manitoba,William and Catherine Booth College,Canada,http://www.boothcollege.ca/,CA
+31,New Brunswick,"University of Moncton, Shippagan",Canada,http://www.cus.ca/,CA
+39,Saskatchewan,First Nations University of Canada,Canada,http://www.firstnationsuniversity.ca/,CA
+89,Unknown,St. Clair College,Canada,http://www.stclairc.on.ca/,CA
+105,Newfoundland and Labrador,Memorial University of Newfoundland,Canada,http://www.ucs.mun.ca/,CA
+119,Prince Edward Island,University of Prince Edward Island,Canada,http://www.upei.ca/,CA
+150,Yukon,Yukon College,Canada,http://www.yukoncollege.yk.ca/,CA
+172,Pennsylvania,University of Pittsburgh Medical Center,United States,https://www.upmc.com/,US
+257,NV,College of Southern Nevada,United States,https://www.csn.edu/,US
+491,Iowa,Allen College,United States,https://www.allencollege.edu/,US
+550,VA,Emory & Henry College,United States,https://www.ehc.edu/,US
+554,TX,East Texas Baptist University,United States,https://www.etbu.edu/,US
+765,Colorado,Denver College of Nursing,United States,https://www.denvercollegeofnursing.edu/,US
+893,IN,Purdue University Fort Wayne,United States,https://www.pdfw.edu/,US
+1136,CA,"University of California, Office of the President",United States,https://www.ucop.edu/,US
+1258,South Carolina,Anderson University,United States,https://andersonuniversity.edu/,US
+1336,Washington,Walla Walla University,United States,http://www.wallawalla.edu/,US
+1983,NY,CUNY Baruch College,United States,https://www.baruch.cuny.edu/,US
+2195,Texas,Schreiner University,United States,https://schreiner.edu/,US
+2334,ND,Trinity Bible College & Graduate School,United States,https://trinitybiblecollege.edu,US
+2335,MI,University of Michigan-Flint,United States,http://www.umflint.edu,US
+2349,Ohio,Defiance College,United States,http://www.defiance.edu/,US
+2351,Florida,Gulf Coast State College,United States,https://www.gulfcoast.edu/,US
+2352,California,Academy of Art University,United States,https://www.academyart.edu/,US
+2353,North Carolina,Lenoir-Rhyne University,United States,https://www.lr.edu/,US
+2355,Michigan,Northwood University,United States,https://northwood.edu/,US
+2356,GA,Clark Atlanta University,United States,https://www.cau.edu/,US
+2379,"New York, NY",CUNY Lehman College,United States,https://www.lehman.cuny.edu/,US
+2448,Buenos Aires,Universidad Atlantida Argentina,Argentina,http://www.atlantida.edu.ar/,AR
+2450,Ciudad Autónoma de Buenos Aires,"Universidad CAECE, Buenos Aires",Argentina,http://www.caece.edu.ar/,AR
+2464,Entre Ríos,Universidad Autónoma de Entre Ríos,Argentina,http://www.uader.edu.ar/,AR
+2471,Salta,Universidad Católica de Salta,Argentina,http://www.ucasal.net/,AR
+2472,Córdoba,Universidad Católica de Córdoba,Argentina,http://www.uccor.edu.ar/,AR
+2473,Mendoza,Universidad Católica de Cuyo,Argentina,http://www.uccuyo.edu.ar/,AR
+2474,Santa Fé,Universidad del Centro Educativo Latinoamericano Rosario,Argentina,http://www.ucel.edu.ar/,AR
+2480,Santiago Del Estero,Universidad Católica de Santiago del Estero,Argentina,http://www.ucse.edu.ar/,AR
+2492,Misiones,Universidad Nacional de Misiones,Argentina,http://www.unam.edu.ar/,AR
+2493,Catamarca,Universidad Nacional de Catamarca,Argentina,http://www.unca.edu.ar/,AR
+2498,Formosa,Universidad Nacional de Formosa,Argentina,http://www.unf.edu.ar/,AR
+2505,Jujuy,Universidad Nacional de Jujuy,Argentina,http://www.unju.edu.ar/,AR
+2508,La Rioja,Universidad Nacional de La Rioja,Argentina,http://www.unlar.edu.ar/,AR
+2510,La Pampa,Universidad Nacional de La Pampa,Argentina,http://www.unlpam.edu.ar/,AR
+2526,San Juan,Universidad Nacional de San Juan,Argentina,http://www.unsj.edu.ar/,AR
+2527,San Luis,Universidad Nacional de San Luis,Argentina,http://www.unsl.edu.ar/,AR
+2529,Tucumán,Universidad Nacional de Tucumán,Argentina,http://www.unt.edu.ar/,AR

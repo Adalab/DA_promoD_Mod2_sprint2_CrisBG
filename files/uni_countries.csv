@@ -1,0 +1,242 @@
+,state-province,domains,name,country,web_pages,alpha_two_code
+0,Quebec,['cstj.qc.ca'],Cégep de Saint-Jérôme,Canada,"['https://www.cstj.qc.ca', 'https://ccmt.cstj.qc.ca', 'https://ccml.cstj.qc.ca']",CA
+1,Ontario,"['lambtoncollege.ca', 'mylambton.ca']",Lambton College,Canada,['https://www.lambtoncollege.ca'],CA
+2,Nova Scotia,['acadiau.ca'],Acadia University,Canada,['http://www.acadiau.ca/'],CA
+3,Ontario,['algonquincollege.com'],Algonquin College,Canada,['http://www.algonquincollege.com/'],CA
+4,British Columbia,['ashtoncollege.com'],Ashton College,Canada,['http://www.ashtoncollege.com/'],CA
+5,Ontario,['assumptionu.ca'],Assumption University,Canada,['http://www.assumptionu.ca/'],CA
+6,Alberta,['athabascau.ca'],Athabasca University,Canada,['http://www.athabascau.ca/'],CA
+7,Alberta,['augustana.ab.ca'],Augustana University College,Canada,['http://www.augustana.ab.ca/'],CA
+8,British Columbia,['bcit.ca'],British Columbia Institute of Technology,Canada,['http://www.bcit.ca/'],CA
+9,British Columbia,['bcou.ca'],British Columbia Open University,Canada,['http://www.bcou.ca/'],CA
+10,Manitoba,['boothcollege.ca'],William and Catherine Booth College,Canada,['http://www.boothcollege.ca/'],CA
+11,Ontario,['borealc.on.ca'],Collège Boréal,Canada,['http://www.borealc.on.ca/'],CA
+12,Alberta,['bowvalleycollege.ca'],Bow Valley College,Canada,['http://www.bowvalleycollege.ca/'],CA
+13,Manitoba,['brandonu.ca'],Brandon University,Canada,['http://www.brandonu.ca/'],CA
+14,Ontario,['brocku.ca'],Brock University,Canada,['http://www.brocku.ca/'],CA
+15,Alberta,['cal.devry.ca'],DeVry Institute of Technology,Canada,['http://www.cal.devry.ca/'],CA
+16,British Columbia,['camosun.bc.ca'],Camosun College,Canada,['http://www.camosun.bc.ca/'],CA
+17,British Columbia,['capcollege.bc.ca'],Capilano College,Canada,['http://www.capcollege.bc.ca/'],CA
+18,British Columbia,['cariboo.bc.ca'],University College of the Cariboo,Canada,['http://www.cariboo.bc.ca/'],CA
+19,Ontario,['carleton.ca'],Carleton University,Canada,['http://www.carleton.ca/'],CA
+20,Ontario,['ccbc.ca'],Canadian College of Business & Computers,Canada,['http://www.ccbc.ca/'],CA
+21,Ontario,['centennialcollege.ca'],Centennial College,Canada,['http://www.centennialcollege.ca/'],CA
+22,Manitoba,['cmu.ca'],Canadian Mennonite University,Canada,['http://www.cmu.ca/'],CA
+23,British Columbia,['cnc.bc.ca'],College of New Caledonia,Canada,['http://www.cnc.bc.ca/'],CA
+24,British Columbia,['columbiacollege.ca'],Columbia College,Canada,['http://www.columbiacollege.ca/'],CA
+25,Alberta,['concordia.ab.ca'],Concordia University College of Alberta,Canada,['http://www.concordia.ab.ca/'],CA
+26,Quebec,['concordia.ca'],Concordia University,Canada,['http://www.concordia.ca/'],CA
+27,Ontario,['conestogac.on.ca'],Conestoga College,Canada,['http://www.conestogac.on.ca/'],CA
+28,British Columbia,['cotr.bc.ca'],College of the Rockies,Canada,['http://www.cotr.bc.ca/'],CA
+29,New Brunswick,['cus.ca'],"University of Moncton, Shippagan",Canada,['http://www.cus.ca/'],CA
+30,New Brunswick,['cuslm.ca'],"University of Moncton, Edmundston",Canada,['http://www.cuslm.ca/'],CA
+31,Nova Scotia,['dal.ca'],Dalhousie University,Canada,['http://www.dal.ca/'],CA
+32,British Columbia,['douglas.bc.ca'],Douglas College,Canada,['http://www.douglas.bc.ca/'],CA
+33,Ontario,['dcmail.ca'],Durham College,Canada,['https://durhamcollege.ca/'],CA
+34,British Columbia,['eciad.bc.ca'],Emily Carr Institute of Art + Design,Canada,['http://www.eciad.bc.ca/'],CA
+35,Quebec,['enap.uquebec.ca'],"École nationale d'administration publique, Université du Québec",Canada,['http://www.enap.uquebec.ca/'],CA
+36,Quebec,['etsmtl.ca'],"École de technologie supérieure, Université du Québec",Canada,['http://www.etsmtl.ca/'],CA
+37,Saskatchewan,['firstnationsuniversity.ca'],First Nations University of Canada,Canada,['http://www.firstnationsuniversity.ca/'],CA
+38,Ontario,['gbrownc.on.ca'],George Brown College,Canada,['http://www.gbrownc.on.ca/'],CA
+39,Quebec,['hec.ca'],École des Hautes Études Commerciales,Canada,['http://www.hec.ca/'],CA
+40,Ontario,"['humber.ca', 'humbermail.ca']",Humber College,Canada,['http://www.humber.ca/'],CA
+41,Ontario,['huronuc.on.ca'],Huron University College,Canada,['http://www.huronuc.on.ca/'],CA
+42,Quebec,['iaf.inrs.ca'],"Institut Armand-Frappier, Université du Québec",Canada,['http://www.iaf.inrs.ca/'],CA
+43,Quebec,['inrs.uquebec.ca'],"Institut National de la Recherche Scientifique, Université du Québec",Canada,['http://www.inrs.uquebec.ca/'],CA
+44,Ontario,['kingston.edu'],Kingston College,Canada,['http://www.kingston.edu/'],CA
+45,Alberta,['kingsu.ab.ca'],King's University College,Canada,['http://www.kingsu.ab.ca/'],CA
+46,British Columbia,['kwantlen.bc.ca'],Kwantleen University College,Canada,['http://www.kwantlen.bc.ca/'],CA
+47,Ontario,['lakeheadu.ca'],Lakehead University,Canada,['http://www.lakeheadu.ca/'],CA
+48,British Columbia,"['langara.bc.ca', 'langara.ca']",Langara College,Canada,"['http://www.langara.bc.ca/', 'https://langara.ca/']",CA
+49,New Brunswick,['lansbridge.com'],Lansbridge University,Canada,['http://www.lansbridge.com/'],CA
+50,Ontario,['laurentian.ca'],Laurentian University of Sudbury,Canada,['http://www.laurentian.ca/'],CA
+51,Alberta,['macewan.ca'],MacEwan University,Canada,['http://www.macewan.ca/'],CA
+52,British Columbia,['mala.bc.ca'],Malaspina University College,Canada,['http://www.mala.bc.ca/'],CA
+53,Quebec,['mcgill.ca'],McGill University,Canada,['http://www.mcgill.ca/'],CA
+54,Ontario,['mcmaster.ca'],McMaster University,Canada,['http://www.mcmaster.ca/'],CA
+55,Nova Scotia,['msvu.ca'],Mount Saint Vincent University,Canada,['http://www.msvu.ca/'],CA
+56,New Brunswick,['mta.ca'],Mount Allison University,Canada,['http://www.mta.ca/'],CA
+57,Alberta,['mtroyal.ca'],Mount Royal University,Canada,['http://www.mtroyal.ca/'],CA
+58,Alberta,['nait.ca'],Northern Alberta Institute of Technology,Canada,['http://www.nait.ca/'],CA
+59,British Columbia,['nic.bc.ca'],North Island College,Canada,['http://www.nic.bc.ca/'],CA
+60,Ontario,['nipissingu.ca'],Nipissing University,Canada,['http://www.nipissingu.ca/'],CA
+61,British Columbia,['nlc.bc.ca'],Northern Lights College,Canada,['http://www.nlc.bc.ca/'],CA
+62,Nova Scotia,['nsac.ns.ca'],Nova Scotia Agricultural College,Canada,['http://www.nsac.ns.ca/'],CA
+63,Nova Scotia,['nscad.ns.ca'],Nova Scotia College of Art and Design,Canada,['http://www.nscad.ns.ca/'],CA
+64,British Columbia,['nvit.bc.ca'],Nicola Valley Institute of Technology,Canada,['http://www.nvit.bc.ca/'],CA
+65,Ontario,['ocad.ca'],Ontario College of Art and Design,Canada,['http://www.ocad.ca/'],CA
+66,British Columbia,['okanagan.bc.ca'],Okanagan University College,Canada,['http://www.okanagan.bc.ca/'],CA
+67,Ontario,['op.org'],Dominican College of Philosophy and Theology,Canada,['http://www.op.org/canada/college.htm'],CA
+68,British Columbia,['picollege.ca'],Pacific International College,Canada,['http://www.picollege.ca/'],CA
+69,Quebec,['polymtl.ca'],"École Polytechnique de Montréal, Université de Montréal",Canada,['http://www.polymtl.ca/'],CA
+70,Ontario,['queensu.ca'],Queen's University,Canada,['http://www.queensu.ca/'],CA
+71,British Columbia,['questu.ca'],Quest University,Canada,['http://www.questu.ca/'],CA
+72,Ontario,['redeemer.ca'],Redeemer College,Canada,['http://www.redeemer.ca/'],CA
+73,British Columbia,['regent-college.edu'],Regent College,Canada,['http://www.regent-college.edu/'],CA
+74,Ontario,['rmc.ca'],Royal Military College of Canada,Canada,['http://www.rmc.ca/'],CA
+75,British Columbia,['royalroads.ca'],Royal Roads University,Canada,['http://www.royalroads.ca/'],CA
+76,Ontario,['ryerson.ca'],Ryerson Polytechnic University,Canada,['http://www.ryerson.ca/'],CA
+77,Alberta,['sait.ca'],Southern Alberta Institute of Technology,Canada,['http://www.sait.ca/'],CA
+78,Saskatchewan,['saskweb.com'],Luther College,Canada,['http://www.saskweb.com/luthercollege/'],CA
+79,British Columbia,['sauder.ubc.ca'],Sauder School of Business,Canada,['http://www.sauder.ubc.ca/'],CA
+80,Ontario,['scar.utoronto.ca'],"University of Toronto, Scarborough",Canada,['http://www.scar.utoronto.ca/'],CA
+81,British Columbia,['selkirk.bc.ca'],Selkirk College,Canada,['http://www.selkirk.bc.ca/'],CA
+82,Ontario,"['senecacollege.ca', 'myseneca.ca']",Seneca College,Canada,['http://www.senecacollege.ca/'],CA
+83,British Columbia,['sfu.ca'],Simon Fraser University,Canada,['http://www.sfu.ca/'],CA
+84,Ontario,['sheridancollege.ca'],Sheridan College,Canada,['http://www.sheridancollege.ca/'],CA
+85,Saskatchewan,['sifc.edu'],Saskatchewan Indian Federated College,Canada,['http://www.sifc.edu/'],CA
+86,,"['stclairc.on.ca', 'stclairconnect.ca', 'myscc.ca']",St. Clair College,Canada,['http://www.stclairc.on.ca/'],CA
+87,,['stfx.ca'],St. Francis Xavier University,Canada,['http://www.stfx.ca/'],CA
+88,,"['stmarys.ca', 'smu.ca']",St. Mary's University,Canada,"['http://www.stmarys.ca/', 'https://smu.ca/']",CA
+89,,['stthomasu.ca'],St. Thomas University,Canada,['http://www.stthomasu.ca/'],CA
+90,Quebec,['teluq.uquebec.ca'],"Télé-université, Université du Québec",Canada,['http://www.teluq.uquebec.ca/'],CA
+91,Ontario,['trentu.ca'],Trent University,Canada,['http://www.trentu.ca/'],CA
+92,Ontario,['trinity.utoronto.ca'],University of Trinity College,Canada,['http://www.trinity.utoronto.ca/'],CA
+93,British Columbia,['tru.ca'],Thompson Rivers University,Canada,['http://www.tru.ca/'],CA
+94,British Columbia,['twu.ca'],Trinity Western University,Canada,['http://www.twu.ca/'],CA
+95,Alberta,['ualberta.ca'],University of Alberta,Canada,['http://www.ualberta.ca/'],CA
+96,British Columbia,['ubc.ca'],University of British Columbia,Canada,['http://www.ubc.ca/'],CA
+97,Quebec,['ubishops.ca'],Bishop's University,Canada,['http://www.ubishops.ca/'],CA
+98,Alberta,['ucalgary.ca'],University of Calgary,Canada,['http://www.ucalgary.ca/'],CA
+99,Nova Scotia,['uccb.ns.ca'],University College of Cape Breton,Canada,['http://www.uccb.ns.ca/'],CA
+100,British Columbia,['ucfv.bc.ca'],University College of the Fraser Valley,Canada,['http://www.ucfv.bc.ca/'],CA
+101,Newfoundland and Labrador,['ucs.mun.ca'],Memorial University of Newfoundland,Canada,['http://www.ucs.mun.ca/'],CA
+102,Nova Scotia,['ukings.ns.ca'],University of King's College,Canada,['http://www.ukings.ns.ca/'],CA
+103,Quebec,['ulaval.ca'],Université Laval,Canada,['http://www.ulaval.ca/'],CA
+104,Alberta,['uleth.ca'],University of Lethbridge,Canada,['http://www.uleth.ca/'],CA
+105,Manitoba,['umanitoba.ca'],University of Manitoba,Canada,['http://www.umanitoba.ca/'],CA
+106,New Brunswick,['umoncton.ca'],University of Moncton,Canada,['http://www.umoncton.ca/'],CA
+107,Quebec,['umontreal.ca'],Université de Montréal,Canada,['http://www.umontreal.ca/'],CA
+108,New Brunswick,['unb.ca'],University of New Brunswick,Canada,['http://www.unb.ca/'],CA
+109,British Columbia,['unbc.ca'],University of Northern British Columbia,Canada,['http://www.unbc.ca/'],CA
+110,New Brunswick,['unbsj.ca'],"University of New Brunswick, Saint John",Canada,['http://www.unbsj.ca/'],CA
+111,British Columbia,['universitycanadawest.ca'],University Canada West,Canada,['http://www.universitycanadawest.ca/'],CA
+112,Ontario,['uoguelph.ca'],University of Guelph,Canada,['http://www.uoguelph.ca/'],CA
+113,Ontario,['uoit.ca'],University of Ontario Institute of Technology,Canada,['http://www.uoit.ca/'],CA
+114,Ontario,['uottawa.ca'],University of Ottawa,Canada,['http://www.uottawa.ca/'],CA
+115,Prince Edward Island,['upei.ca'],University of Prince Edward Island,Canada,['http://www.upei.ca/'],CA
+116,Quebec,['uqac.ca'],Université du Québec à Chicoutimi,Canada,['http://www.uqac.ca/'],CA
+117,Quebec,['uqam.ca'],Université du Québec à Montréal,Canada,['http://www.uqam.ca/'],CA
+118,Quebec,['uqar.uquebec.ca'],Université du Québec à Rimouski,Canada,['http://www.uqar.uquebec.ca/'],CA
+119,Quebec,['uqat.uquebec.ca'],Université du Québec en Abitibi-Témiscamingue,Canada,['http://www.uqat.uquebec.ca/'],CA
+120,Quebec,['uqo.ca'],Université du Québec en Outaouais,Canada,['http://www.uqo.ca/'],CA
+121,Quebec,['uqtr.uquebec.ca'],Université du Québec à Trois-Rivières,Canada,['http://www.uqtr.uquebec.ca/'],CA
+122,Quebec,['uquebec.ca'],University of Québec,Canada,['http://www.uquebec.ca/'],CA
+123,Saskatchewan,['uregina.ca'],Campion College,Canada,['http://www.uregina.ca/campion/'],CA
+124,Saskatchewan,['uregina.ca'],University of Regina,Canada,['http://www.uregina.ca/'],CA
+125,Saskatchewan,['usask.ca'],University of Saskatchewan,Canada,['http://www.usask.ca/'],CA
+126,Quebec,['usherb.ca'],Université de Sherbrooke,Canada,['http://www.usherb.ca/'],CA
+127,,['usjc.uwaterloo.ca'],University of St. Jerome's College,Canada,['http://www.usjc.uwaterloo.ca/'],CA
+128,,['ustanne.ednet.ns.ca'],St. Anne University,Canada,['http://www.ustanne.ednet.ns.ca/'],CA
+129,Manitoba,['ustboniface.mb.ca'],University College of Saint-Boniface,Canada,['http://www.ustboniface.mb.ca/'],CA
+130,,['ustpaul.ca'],St. Paul University,Canada,['http://www.ustpaul.ca/'],CA
+131,Ontario,['usudbury.com'],University of Sudbury,Canada,['http://www.usudbury.com/'],CA
+132,Ontario,['utm.utoronto.ca'],"University of Toronto, Mississauga",Canada,['http://www.utm.utoronto.ca/'],CA
+133,,['utoronto.ca'],University of St. Michael's College,Canada,['http://www.utoronto.ca/stmikes/'],CA
+134,Ontario,['utoronto.ca'],University of Toronto,Canada,['http://www.utoronto.ca/'],CA
+135,British Columbia,['uvic.ca'],University of Victoria,Canada,['http://www.uvic.ca/'],CA
+136,Ontario,['uwaterloo.ca'],University of Waterloo,Canada,['http://www.uwaterloo.ca/'],CA
+137,Ontario,['uwindsor.ca'],University of Windsor,Canada,['http://www.uwindsor.ca/'],CA
+138,Manitoba,['uwinnipeg.ca'],University of Winnipeg,Canada,['http://www.uwinnipeg.ca/'],CA
+139,Ontario,['uwo.ca'],Brescia University College,Canada,['http://brescia.uwo.ca/'],CA
+140,Nova Scotia,['uwo.ca'],King's College,Canada,['http://www.uwo.ca/kings/'],CA
+141,Ontario,['uwo.ca'],University of Western Ontario,Canada,['http://www.uwo.ca/'],CA
+142,British Columbia,['vcc.ca'],Vancouver Community College,Canada,['http://www.vcc.ca/'],CA
+143,Ontario,['vicu.utoronto.ca'],"Victoria University Toronto, University of Toronto",Canada,['http://vicu.utoronto.ca/'],CA
+144,Ontario,"['wlu.ca', 'mylaurier.ca']",Wilfrid Laurier University,Canada,['http://www.wlu.ca/'],CA
+145,Ontario,['yorku.ca'],York University,Canada,['http://www.yorku.ca/'],CA
+146,Yukon,['yukoncollege.yk.ca'],Yukon College,Canada,['http://www.yukoncollege.yk.ca/'],CA
+147,Ontario,['mohawkcollege.ca'],Mohawk College,Canada,['https://www.mohawkcollege.ca/'],CA
+148,Quebec,['bdeb.qc.ca'],College of Bois-de-Boulogne,Canada,['https://www.bdeb.qc.ca/'],CA
+149,Ontario,"['fanshawec.ca', 'fanshaweonline.ca']",Fanshawe College,Canada,['https://www.fanshawec.ca/'],CA
+150,Quebec,['vaniercollege.qc.ca'],Vanier College,Canada,['https://www.vaniercollege.qc.ca/'],CA
+151,Ontario,"['ontariotechu.ca', 'ontariotechu.net']",Ontario Tech University,Canada,['https://ontariotechu.ca/'],CA
+152,Ontario,['torontomu.ca'],Toronto Metropolitan University,Canada,['https://www.torontomu.ca/'],CA
+153,Quebec,['collegeuniversel.ca'],Collège Universel Gatineau,Canada,['https://collegeuniversel.ca/'],CA
+0,Buenos Aires,['atlantida.edu.ar'],Universidad Atlantida Argentina,Argentina,['http://www.atlantida.edu.ar/'],AR
+1,Buenos Aires,['austral.edu.ar'],Universidad Austral Buenos Aires,Argentina,['http://www.austral.edu.ar/'],AR
+2,Ciudad Autónoma de Buenos Aires,['caece.edu.ar'],"Universidad CAECE, Buenos Aires",Argentina,['http://www.caece.edu.ar/'],AR
+3,Ciudad Autónoma de Buenos Aires,['cema.edu.ar'],Instituto Universitario CEMA,Argentina,['http://www.cema.edu.ar/'],AR
+4,Ciudad Autónoma de Buenos Aires,['iese.edu.ar'],Instituto de Enseñanza Superior del Ejército,Argentina,['http://www.iese.edu.ar/'],AR
+5,Buenos Aires,['inun.edu.ar'],Instituto Universitario de Estudios Navales y Marítimos,Argentina,['http://www.inun.edu.ar/'],AR
+6,Ciudad Autónoma de Buenos Aires,['itba.edu.ar'],Instituto Tecnológico de Buenos Aires,Argentina,['http://www.itba.edu.ar/'],AR
+7,Buenos Aires,['iua.edu.ar'],Instituto Universitario Aeronáutico,Argentina,['http://www.iua.edu.ar/'],AR
+8,Ciudad Autónoma de Buenos Aires,['iucs.uncoma.edu.ar'],Instituto Universitario de Ciencias de la Salud - Buenos Aires,Argentina,['http://iucs.uncoma.edu.ar/'],AR
+9,Ciudad Autónoma de Buenos Aires,['iuna.edu.ar'],Instituto Universitario Nacional del Arte,Argentina,['http://www.iuna.edu.ar/'],AR
+10,Buenos Aires,['kennedy.edu.ar'],"Universidad Argentina ""John F. Kennedy""",Argentina,['http://www.kennedy.edu.ar/'],AR
+11,Ciudad Autónoma de Buenos Aires,['maimonides.edu.ar'],Universidad Maimónides,Argentina,['http://www.maimonides.edu.ar/'],AR
+12,Buenos Aires,['mdp.edu.ar'],Universidad Nacional de Mar del Plata,Argentina,['http://www.mdp.edu.ar/'],AR
+13,Ciudad Autónoma de Buenos Aires,['palermo.edu.ar'],Universidad de Palermo,Argentina,['http://www.palermo.edu.ar/'],AR
+14,Ciudad Autónoma de Buenos Aires,['salvador.edu.ar'],Universidad del Salvador,Argentina,['http://www.salvador.edu.ar/'],AR
+15,Ciudad Autónoma de Buenos Aires,['uade.edu.ar'],Universidad Argentina de la Empresa,Argentina,['http://www.uade.edu.ar/'],AR
+16,Entre Ríos,['uader.edu.ar'],Universidad Autónoma de Entre Ríos,Argentina,['http://www.uader.edu.ar/'],AR
+17,Entre Ríos,['uapar.edu'],Universidad Adventista del Plata,Argentina,['http://www.uapar.edu/'],AR
+18,Ciudad Autónoma de Buenos Aires,['uba.ar'],Universidad de Buenos Aires,Argentina,['http://www.uba.ar/'],AR
+19,Ciudad Autónoma de Buenos Aires,['ub.edu.ar'],Universidad de Belgrano,Argentina,['http://www.ub.edu.ar/'],AR
+20,Ciudad Autónoma de Buenos Aires,['ubp.edu.ar'],Universidad Blas Pascal,Argentina,['http://www.ubp.edu.ar/'],AR
+21,Ciudad Autónoma de Buenos Aires,['uca.edu.ar'],Universidad Católica Argentina Santa Maria de los Buenos Aires,Argentina,['http://www.uca.edu.ar/'],AR
+22,Buenos Aires,['ucalp.edu.ar'],Universidad Católica de La Plata,Argentina,['http://www.ucalp.edu.ar/'],AR
+23,Salta,['ucasal.net'],Universidad Católica de Salta,Argentina,['http://www.ucasal.net/'],AR
+24,Córdoba,['uccor.edu.ar'],Universidad Católica de Córdoba,Argentina,['http://www.uccor.edu.ar/'],AR
+25,Mendoza,['uccuyo.edu.ar'],Universidad Católica de Cuyo,Argentina,['http://www.uccuyo.edu.ar/'],AR
+26,Santa Fé,['ucel.edu.ar'],Universidad del Centro Educativo Latinoamericano Rosario,Argentina,['http://www.ucel.edu.ar/'],AR
+27,Ciudad Autónoma de Buenos Aires,['uces.edu.ar'],Universidad de Ciencias Empresariales y Sociales,Argentina,['http://www.uces.edu.ar/'],AR
+28,,['uch.edu.ar'],Universidad Champagnat,Argentina,['http://www.uch.edu.ar/'],AR
+29,Ciudad Autónoma de Buenos Aires,['ucine.edu.ar'],Universidad del Cine - Buenos Aires,Argentina,['http://www.ucine.edu.ar/'],AR
+30,,['ucongres.edu.ar'],Universidad de Congreso,Argentina,['http://www.ucongres.edu.ar/'],AR
+31,,['ucp.edu.ar'],Universidad de la Cuenca del Plata,Argentina,['http://www.ucp.edu.ar/'],AR
+32,Santiago Del Estero,['ucse.edu.ar'],Universidad Católica de Santiago del Estero,Argentina,['http://www.ucse.edu.ar/'],AR
+33,Santa Fé,['ucsf.edu.ar'],Universidad Católica de Santa Fé,Argentina,['http://www.ucsf.edu.ar/'],AR
+34,,['ucu.edu.ar'],Universidad de Concepción del Uruguay,Argentina,['http://www.ucu.edu.ar/'],AR
+35,,['uda.edu.ar'],Universidad del Aconcagua,Argentina,['http://www.uda.edu.ar/'],AR
+36,,['udemm.edu.ar'],Universidad de la Marina Mercante,Argentina,['http://www.udemm.edu.ar/'],AR
+37,Buenos Aires,['udesa.edu.ar'],Universidad de San Andres,Argentina,['http://www.udesa.edu.ar/'],AR
+38,Córdoba,['uesiglo21.edu.ar'],Universidad Empresarial Siglio 21,Argentina,['http://www.uesiglo21.edu.ar/'],AR
+39,,['ufasta.edu.ar'],Universidad de la Fraternidad de Agrupaciones Santo Tomas de Aquino (FASTA),Argentina,['http://www.ufasta.edu.ar/'],AR
+40,Buenos Aires,['uflo.edu.ar'],Universidad de Flores - Buenos Aires,Argentina,['http://www.uflo.edu.ar/'],AR
+41,,['umaza.edu.ar'],"Universidad ""Juan Agustín Maza""",Argentina,['http://www.umaza.edu.ar/'],AR
+42,Mendoza,['um.edu.ar'],Universidad de Mendoza,Argentina,['http://www.um.edu.ar/'],AR
+43,,['umsa.edu.ar'],Universidad del Museo Social Argentino,Argentina,['http://www.umsa.edu.ar/'],AR
+44,Misiones,['unam.edu.ar'],Universidad Nacional de Misiones,Argentina,['http://www.unam.edu.ar/'],AR
+45,Catamarca,['unca.edu.ar'],Universidad Nacional de Catamarca,Argentina,['http://www.unca.edu.ar/'],AR
+46,Córdoba,['unc.edu.ar'],Universidad Nacional de Córdoba,Argentina,['http://www.unc.edu.ar/'],AR
+47,,['uncoma.edu.ar'],Universidad Nacional del Comahue,Argentina,['http://www.uncoma.edu.ar/'],AR
+48,Mendoza,['uncu.edu.ar'],Universidad Nacional de Cuyo,Argentina,['http://www.uncu.edu.ar/'],AR
+49,Entre Ríos,['uner.edu.ar'],Universidad Nacional de Entre Ríos,Argentina,['http://www.uner.edu.ar/'],AR
+50,Formosa,['unf.edu.ar'],Universidad Nacional de Formosa,Argentina,['http://www.unf.edu.ar/'],AR
+51,Buenos Aires,['ungs.edu.ar'],Universidad Nacional de General Sarmiento,Argentina,['http://www.ungs.edu.ar/'],AR
+52,,['unibo.edu.ar'],Universidad de Bologna - Representación en Buenos Aires,Argentina,['http://www.unibo.edu.ar/'],AR
+53,Buenos Aires,['unicen.edu.ar'],Universidad Nacional del Centro de la Provincia de Buenos Aires,Argentina,['http://www.unicen.edu.ar/'],AR
+54,Buenos Aires,['unimoron.edu.ar'],Universidad de Morón,Argentina,['http://www.unimoron.edu.ar/'],AR
+55,,['universidadnotarial.edu.ar'],Universidad Notarial Argentina,Argentina,['http://www.universidadnotarial.edu.ar/'],AR
+56,,['universidad-policial.edu.ar'],Instituto Universitario de la Policia Federal,Argentina,['http://www.universidad-policial.edu.ar/'],AR
+57,Jujuy,['unju.edu.ar'],Universidad Nacional de Jujuy,Argentina,['http://www.unju.edu.ar/'],AR
+58,Buenos Aires,['unla.edu.ar'],Universidad Nacional de Lanus,Argentina,['http://www.unla.edu.ar/'],AR
+59,Buenos Aires,['unlam.edu.ar'],Universidad Nacional de La Matanza,Argentina,['http://www.unlam.edu.ar/'],AR
+60,La Rioja,['unlar.edu.ar'],Universidad Nacional de La Rioja,Argentina,['http://www.unlar.edu.ar/'],AR
+61,,['unl.edu.ar'],Universidad Nacional del Litoral,Argentina,['http://www.unl.edu.ar/'],AR
+62,La Pampa,['unlpam.edu.ar'],Universidad Nacional de La Pampa,Argentina,['http://www.unlpam.edu.ar/'],AR
+63,Buenos Aires,['unlp.edu.ar'],Universidad Nacional de La Plata,Argentina,['http://www.unlp.edu.ar/'],AR
+64,,['unlu.edu.ar'],"Instituto Nacional de Educación Física ""General Manuel Belgrano""",Argentina,['http://www.unlu.edu.ar/Belgrano.htm'],AR
+65,Buenos Aires,['unlu.edu.ar'],Universidad Nacional de Luján,Argentina,['http://www.unlu.edu.ar/'],AR
+66,Buenos Aires,['unlz.edu.ar'],Universidad Nacional de Lomas de Zamora,Argentina,['http://www.unlz.edu.ar/'],AR
+67,,['unne.edu.ar'],Universidad Nacional del Nordeste,Argentina,['http://www.unne.edu.ar/'],AR
+68,,['unnoba.edu.ar'],Universidad Nacional del Noroeste de la Provincia de Buenos Aires,Argentina,['http://www.unnoba.edu.ar/'],AR
+69,,['unpa.edu.ar'],Universidad Nacional de la Patagonia Austral,Argentina,['http://www.unpa.edu.ar/'],AR
+70,,['unp.edu.ar'],"Universidad Nacional de la Patagonia ""San Juan Bosco""",Argentina,['http://www.unp.edu.ar/'],AR
+71,Buenos Aires,['unq.edu.ar'],Universidad Nacional de Quilmes,Argentina,['http://www.unq.edu.ar/'],AR
+72,Córdoba,['unrc.edu.ar'],Universidad Nacional de Río Cuarto,Argentina,['http://www.unrc.edu.ar/'],AR
+73,Santa Fé,['unr.edu.ar'],Universidad Nacional de Rosario,Argentina,['http://www.unr.edu.ar/'],AR
+74,Salta,['unsa.edu.ar'],Universidad Nacional de Salta,Argentina,['http://www.unsa.edu.ar/'],AR
+75,Buenos Aires,['unsam.edu.ar'],Universidad Nacional de General San Martín,Argentina,['http://www.unsam.edu.ar/'],AR
+76,,['uns.edu.ar'],Universidad Nacional del Sur,Argentina,['http://www.uns.edu.ar/'],AR
+77,Santiago Del Estero,['unse.edu.ar'],Universidad Nacional de Santiago del Estero,Argentina,['http://www.unse.edu.ar/'],AR
+78,San Juan,['unsj.edu.ar'],Universidad Nacional de San Juan,Argentina,['http://www.unsj.edu.ar/'],AR
+79,San Luis,['unsl.edu.ar'],Universidad Nacional de San Luis,Argentina,['http://www.unsl.edu.ar/'],AR
+80,,['unsta.edu.ar'],"Universidad del Norte ""Santo Tomás de Aquino""",Argentina,['http://www.unsta.edu.ar/'],AR
+81,Tucumán,['unt.edu.ar'],Universidad Nacional de Tucumán,Argentina,['http://www.unt.edu.ar/'],AR
+82,Buenos Aires,['untref.edu.ar'],Universidad Nacional de Tres de Febrero,Argentina,['http://www.untref.edu.ar/'],AR
+83,Ciudad Autónoma de Buenos Aires,['utdt.edu'],Universidad Torcuato di Tella,Argentina,['http://www.utdt.edu/'],AR
+84,Ciudad Autónoma de Buenos Aires,['utn.edu.ar'],Universidad Tecnológica Nacional,Argentina,['http://www.utn.edu.ar/'],AR
+85,Ciudad Autónoma de Buenos Aires,['vaneduc.edu.ar'],Universidad Abierta Interamericana,Argentina,['http://www.vaneduc.edu.ar/uai/'],AR
+86,,['webs.satlink.com'],Universidad Nacional de Villa María,Argentina,['http://webs.satlink.com/usuarios/i/iiunvm/'],AR
