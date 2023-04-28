@@ -29,7 +29,7 @@ class Unis_Countries:
             _pd.df_: _description_dataframe con los datos de los países solicitados
         """
 
-        df_uni_country = pd.DataFrame()
+        dataframe = pd.DataFrame()
 
         for country in self.country_list:
             
@@ -46,9 +46,9 @@ class Unis_Countries:
             else:
                 print('Algo inesperado ha ocurrido, se ha devuelto el código de estado:', status,' y como razón del código de estado: ', status_reason)
 
-            df_uni_country = pd.concat([df_uni_country, pd.DataFrame(response_country.json())], axis = 0)
+            dataframe = pd.concat([dataframe, pd.DataFrame(response_country.json())], axis = 0)
     
-        return df_uni_country
+        return dataframe
     
     def clean(self, dataframe):
         """_summary_homgeneización de columnas y limpieza de columnas redundantes para los datos obtenidos
@@ -197,7 +197,7 @@ class Unis_Countries:
         except:
             print("La BBDD ya existe")
     
-    def create_tables(self):
+    def create_tables(self, nombre_base_datos, contraseña):
         """_summary_creación de tablas de la base de datos
         """
 
@@ -205,8 +205,8 @@ class Unis_Countries:
         
             mydb = mysql.connector.connect(host="localhost",
                                         user="root",
-                                        password=f'{self.contraseña}', 
-                                        database=f"{self.nombre_base_datos}") 
+                                        password=f'{contraseña}', 
+                                        database=f"{nombre_base_datos}") 
             mycursor = mydb.cursor()
         
             try:

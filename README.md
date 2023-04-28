@@ -3,14 +3,14 @@ Segunda evaluación del módulo 2 de DA
 
 Se han utilizado las siguientes librerías:
 
-NumPy https://numpy.org/
-Pandas https://pandas.pydata.org/
-sys https://docs.python.org/es/3.10/library/sys.html
-requests https://pypi.org/project/requests/
-mysql connector https://www.mysql.com/products/connector/
-geopy geocoders https://pypi.org/project/geopy/
+[NumPy](https://numpy.org/)
+[Pandas](https://pandas.pydata.org/)
+[sys](https://docs.python.org/es/3.10/library/sys.html)
+[requests](https://pypi.org/project/requests/)
+[mysql connector](https://www.mysql.com/products/connector/)
+[geopy geocoders](https://pypi.org/project/geopy/)
 
-Como partida de la propuesta de ejercicio, la API "Universities Hipolabs" (http://universities.hipolabs.com/)
+Como partida de la propuesta de ejercicio, la API [Universities Hipolabs](http://universities.hipolabs.com/)
 
 Tras la realización del trabajo y la toma de algunas decisiones el repositorio consta de un archivo y dos carpetas de archivos.
 
